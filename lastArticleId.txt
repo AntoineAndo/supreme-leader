@@ -1,0 +1,1 @@
+index.php?strPageID=SF01_02_01&newsID=2017-09-04-0010
